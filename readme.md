@@ -44,5 +44,17 @@ Clone this masterpiece:
 git clone https://github.com/Average-Chief/Expense_Tracker_CLI.git
 cd expense-tracker-cli
 ```
+## 💻 Usage
+
+```bash
+python main.py -h #Shows the help section.
+python main.py add -d "Description" -a (amount) #Adds an expense.
+python main.py add -d "Description" -a (amount) #Adds another expense with ID 2.
+python main.py list #Lists all the expenses.
+python main.py total #Total sum of the expenses.
+python main.py delete --id 1 #Deletes the expense where ID is 1.
+python main.py summary -m 12 #Total expenses in the month 12th month.
+python main.py export -f (filename.csv) #Allows the users to export expenses to a CSV file.
+```
 
 Project Link: https://roadmap.sh/projects/expense-tracker
