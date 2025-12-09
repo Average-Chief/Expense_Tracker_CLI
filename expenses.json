@@ -1,0 +1,35 @@
+{
+    "next_id": 7,
+    "expenses": [
+        {
+            "id": 2,
+            "date": "2025-12-09",
+            "amount": 4000.0,
+            "description": "Food"
+        },
+        {
+            "id": 3,
+            "date": "2025-12-09",
+            "amount": 500.0,
+            "description": "'Gym'"
+        },
+        {
+            "id": 4,
+            "date": "2025-12-09",
+            "amount": 150.0,
+            "description": "'Petrol'"
+        },
+        {
+            "id": 5,
+            "date": "2025-12-09",
+            "amount": 90.0,
+            "description": "Game Pass"
+        },
+        {
+            "id": 6,
+            "date": "2025-12-09",
+            "amount": 90.0,
+            "description": "Bike"
+        }
+    ]
+}
