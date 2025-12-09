@@ -17,7 +17,7 @@
 ## 🎬 Demo
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThpY3cwMXh0dzRqMnF6am5vOWZneDFvNDl3cTVocWVmeWJkbWRvdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlCq7U3i9AKLzzi/giphy.gif" width="600">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJqa2FzZ2h0bjB2djZodTlrc3U1aHhkYzBjbnkzMW53cHcwZGt6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U7Mqz6lKPjlQZEAWJE/giphy.gif" width="600">
 </p>
 
 > *Actual footage of you deleting your expenses before your mom sees them.*
@@ -28,11 +28,9 @@
 
 - ➕ Add expenses  
 - 🗑️ Delete expenses  
-- ✏️ Update expenses  
 - 📋 List all expenses  
 - 📊 Total summary  
 - 📅 Monthly summary  
-- 🏷️ Categories (optional)  
 - 💾 JSON storage  
 - 📤 Export expenses to CSV using Polars  
 
@@ -43,5 +41,8 @@
 Clone this masterpiece:
 
 ```bash
-git clone https://github.com/yourusername/expense-tracker-cli.git
+git clone https://github.com/Average-Chief/Expense_Tracker_CLI.git
 cd expense-tracker-cli
+```
+
+Project Link: https://roadmap.sh/projects/expense-tracker
